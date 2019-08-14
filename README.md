@@ -11,7 +11,7 @@ The cowbird encoding network takes cowbird song, segments to filter out noise in
 
 Overview of the package
 ------------
-![description](src_img/animalvocalizationfigure.png)
+![description](src_img/method_roadmap.png)
 
 ## Latent space generative modelling of song
 Below is an example of a variational autoencoder trained on birdsong. In each example, points are selected from a low dimensional latent space, and are then passed through a decoder to be decoded into syllable spectrograms. Spectrograms can be inverted into waveforms (currently using Griffin and Lim inversion).
