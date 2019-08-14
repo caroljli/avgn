@@ -1,7 +1,7 @@
 
 Animal Vocalization Generative Network (AVGN)
 ---
-Cowbird encoding by **Carol Li** (Undergraduate, University of Pennsylvania, Schmidt Laboratory).
+Cowbird notebook by **Carol Li** (Undergraduate, University of Pennsylvania, Schmidt Laboratory).
 
 Original repository by **Tim Sainburg** (PhD student, UCSD, Gentner Laboratory).
 
@@ -11,7 +11,7 @@ The cowbird encoding network takes cowbird song, segments to filter out noise in
 
 Overview of the package
 ------------
-![description](src_img/method_roadmap.png)
+![description](src_img/method-roadmap.png)
 
 ## Latent space generative modelling of song
 Below is an example of a variational autoencoder trained on birdsong. In each example, points are selected from a low dimensional latent space, and are then passed through a decoder to be decoded into syllable spectrograms. Spectrograms can be inverted into waveforms (currently using Griffin and Lim inversion).
@@ -28,7 +28,7 @@ TODO: upload
 
 Documentation
 ------------
-Notebook is located in `notebooks/birdsong` folder. 
+Notebook is located in `notebooks/birdsong/brown_headed_cowbird` folder. 
 
 GAIA autoencoder is not yet implemented.
 
