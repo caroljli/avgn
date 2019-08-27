@@ -13,18 +13,15 @@ Overview of the package
 ------------
 ![description](src_img/method-roadmap.png)
 
-## Latent space generative modelling of song
-Below is an example of a variational autoencoder trained on birdsong. In each example, points are selected from a low dimensional latent space, and are then passed through a decoder to be decoded into syllable spectrograms. Spectrograms can be inverted into waveforms (currently using Griffin and Lim inversion).
+## Syllabification
+Below is an example of a transcribed cowbird song.
+![syllabification_example](src_img/2019-01-01_09-00-00-000000.jpg)
 
-#### An example grid sampling from cowbird song (from a 2D Multidimensional Scaling Autoencoder)
-TODO: upload
-#### An example interpolation of cowbird song (from a 16D Variational Autoencoder)
-TODO: upload
-
-## An example of transcribed cowbird song
-Below is an example of a combination of the HDBSCAN and UMAP algorithms, first used to reduce the dimensionality of syllables, then used to cluster syllables into discrete categories.
-
-TODO: upload
+TODO: 
+- Latent space generative modelling of song
+- Example grid sampling from cowbird song (from a 2D Multidimensional Scaling Autoencoder) --> debug
+- Example interpolation of cowbird song (from a 16D Variational Autoencoder)
+- Example of transcribed cowbird song
 
 Documentation
 ------------
