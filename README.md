@@ -3,7 +3,7 @@ Animal Vocalization Generative Network (AVGN)
 ---
 Cowbird notebook by **Carol Li** (Undergraduate, University of Pennsylvania, Schmidt Laboratory).
 
-Original repository by **Tim Sainburg** (PhD student, UCSD, Gentner Laboratory).
+Extension of original repository by **Tim Sainburg** (PhD student, UCSD, Gentner Laboratory).
 
 ---
 
