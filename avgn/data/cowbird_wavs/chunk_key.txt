@@ -1,0 +1,486 @@
+chunk_000001111.wav,s
+chunk_000005292.wav,s
+chunk_000007511.wav,s
+chunk_000009303.wav,w
+chunk_000011265.wav,outside bird
+chunk_000012545.wav,s1
+chunk_000013143.wav,s2
+chunk_000014423.wav,unknown bird
+chunk_000015703.wav,s
+chunk_000016897.wav,s
+chunk_000017751.wav,outside bird
+chunk_000019116.wav,outside bird
+chunk_000020754.wav,s
+chunk_000021778.wav,s
+chunk_000022887.wav,outside bird
+chunk_000024935.wav,outside bird
+chunk_000026028.wav,outside bird
+chunk_000026898.wav,s
+chunk_000029783.wav,s
+chunk_000032343.wav,s
+chunk_000035159.wav,s
+chunk_000037378.wav,s
+chunk_000039255.wav,s
+chunk_000042412.wav,s
+chunk_000043095.wav,s
+chunk_000045484.wav,s
+chunk_000045771.wav,siren
+chunk_000045947.wav,siren start
+chunk_000046338.wav,s
+chunk_000047874.wav,outside bird
+chunk_000049666.wav,b
+chunk_000051116.wav,s
+chunk_000052055.wav,s
+chunk_000052994.wav,s
+chunk_000054530.wav,chuck
+chunk_000055414.wav,song (burble)
+chunk_000057346.wav,song
+chunk_000060162.wav,s
+chunk_000060844.wav,s
+chunk_000064769.wav,s
+chunk_000065281.wav,s
+chunk_000068439.wav,s
+chunk_000069719.wav,s
+chunk_000071426.wav,chuck
+chunk_000072279.wav,wing rustle
+chunk_000074583.wav,wing rustle
+chunk_000075863.wav,s
+chunk_000079276.wav,chuck
+chunk_000080556.wav,s
+chunk_000081751.wav,chuck
+chunk_000082604.wav,wing rustle
+chunk_000083970.wav,s
+chunk_000085164.wav,s
+chunk_000087895.wav,wing rustle
+chunk_000088748.wav,s
+chunk_000089431.wav,s
+chunk_000090028.wav,noise
+chunk_000091479.wav,wing rustle
+chunk_000092418.wav,s
+chunk_000093868.wav,s
+chunk_000097623.wav,s
+chunk_000099159.wav,s
+chunk_000100524.wav,s
+chunk_000103084.wav,wing rustle
+chunk_000103938.wav,s
+chunk_000106242.wav,s overlap
+chunk_000109058.wav,s overlap
+chunk_000110423.wav,s
+chunk_000113324.wav,s
+chunk_000115714.wav,s
+chunk_000116396.wav,s
+chunk_000117788.wav,wing rustle
+chunk_000122140.wav,s
+chunk_000123847.wav,s
+chunk_000126663.wav,s
+chunk_000127935.wav,s
+chunk_000132799.wav,s
+chunk_000134676.wav,outside bird
+chunk_000136383.wav,s
+chunk_000137578.wav,s
+chunk_000142954.wav,s overlap
+chunk_000143978.wav,s
+chunk_000145599.wav,chuck
+chunk_000150463.wav,s
+chunk_000152511.wav,whistle
+chunk_000154303.wav,s
+chunk_000155327.wav,s
+chunk_000156522.wav,chuck
+chunk_000158314.wav,s overlap
+chunk_000161386.wav,wing rustle
+chunk_000163178.wav,chuck
+chunk_000163775.wav,noise
+chunk_000165938.wav,chuck
+chunk_000166962.wav,s
+chunk_000168242.wav,s
+chunk_000169095.wav,s
+chunk_000170034.wav,chuck
+chunk_000171058.wav,s
+chunk_000173874.wav,s overlap
+chunk_000175751.wav,s
+chunk_000176519.wav,whistle
+chunk_000177202.wav,whistle
+chunk_000179016.wav,s
+chunk_000181406.wav,s overlap
+chunk_000182174.wav,chuck
+chunk_000182942.wav,s
+chunk_000183710.wav,s
+chunk_000185246.wav,s
+chunk_000186504.wav,wing rustle
+chunk_000187869.wav,chuck
+chunk_000189064.wav,s
+chunk_000190600.wav,chuck
+chunk_000191197.wav,s whistle
+chunk_000193075.wav,s overlap
+chunk_000194611.wav,wing rustle
+chunk_000195549.wav,chuck
+chunk_000197256.wav,chuck
+chunk_000198355.wav,s
+chunk_000199379.wav,outside bird
+chunk_000200573.wav,s
+chunk_000202792.wav,s
+chunk_000204755.wav,chuck
+chunk_000205352.wav,outside bird
+chunk_000206120.wav,whistle
+chunk_000207400.wav,s overlap
+chunk_000208083.wav,s burble
+chunk_000208765.wav,noise (train)
+chunk_000209789.wav,s
+chunk_000211069.wav,whistle
+chunk_000212776.wav,s
+chunk_000213629.wav,whistle
+chunk_000215243.wav,song
+chunk_000215992.wav,whistle
+chunk_000216675.wav,s
+chunk_000217699.wav,chuck
+chunk_000219064.wav,s
+chunk_000219918.wav,s
+chunk_000222904.wav,s overlap
+chunk_000223928.wav,chuck
+chunk_000225806.wav,s overlap
+chunk_000228280.wav,outside bird
+chunk_000229475.wav,whistle
+chunk_000231864.wav,chuck
+chunk_000233742.wav,s overlap
+chunk_000235534.wav,chuck
+chunk_000235704.wav,noise
+chunk_000237070.wav,s overlap
+chunk_000239715.wav,whistle
+chunk_000241507.wav,s overlap
+chunk_000243555.wav,s overlap
+chunk_000245347.wav,chuck
+chunk_000247992.wav,s
+chunk_000248846.wav,s
+chunk_000249870.wav,s
+chunk_000251491.wav,noise
+chunk_000252771.wav,s
+chunk_000253966.wav,s overlap (whistle)
+chunk_000255035.wav,chuck
+chunk_000255803.wav,whistle
+chunk_000256656.wav,s
+chunk_000257339.wav,s
+chunk_000258875.wav,s overlap
+chunk_000260581.wav,s overlap
+chunk_000262032.wav,noise (cat?)
+chunk_000263227.wav,chuck
+chunk_000264251.wav,s overlap
+chunk_000265189.wav,outside bird
+chunk_000266384.wav,chuck
+chunk_000268261.wav,whistle
+chunk_000269968.wav,s overlap
+chunk_000271675.wav,whistle
+chunk_000273582.wav,s overlap
+chunk_000274832.wav,whistle
+chunk_000276283.wav,chuck
+chunk_000277819.wav,song + rattle
+chunk_000279184.wav,s
+chunk_000280037.wav,s overlap
+chunk_000280976.wav,chuck
+chunk_000281829.wav,noise
+chunk_000282597.wav,s
+chunk_000283536.wav,s
+chunk_000284475.wav,s overlap
+chunk_000286352.wav,whistle
+chunk_000287376.wav,s overlap
+chunk_000288315.wav,chuck
+chunk_000288912.wav,noise
+chunk_000290192.wav,s
+chunk_000290717.wav,s
+chunk_000291216.wav,s
+chunk_000291950.wav,outside bird
+chunk_000293230.wav,s overlap
+chunk_000295620.wav,outside bird
+chunk_000297156.wav,s burble
+chunk_000298350.wav,s overlap
+chunk_000299033.wav,wing rustle
+chunk_000299566.wav,outside bird
+chunk_000300974.wav,s overlap
+chunk_000302065.wav,noise
+chunk_000303430.wav,noise
+chunk_000305093.wav,noise
+chunk_000305681.wav,s
+chunk_000306423.wav,s overlap
+chunk_000307673.wav,s
+chunk_000308937.wav,s
+chunk_000310225.wav,s burble
+chunk_000311188.wav,whistle
+chunk_000311923.wav,s
+chunk_000312929.wav,s overlap
+chunk_000315009.wav,s
+chunk_000316231.wav,whistle
+chunk_000319004.wav,s
+chunk_000320114.wav,chuck
+chunk_000320509.wav,chuck
+chunk_000320702.wav,noise
+chunk_000320899.wav,chuck
+chunk_000321487.wav,s overlap
+chunk_000322779.wav,s
+chunk_000323765.wav,s overlap
+chunk_000324794.wav,s whistle
+chunk_000325714.wav,s (human noise)
+chunk_000326643.wav,noise
+chunk_000327493.wav,whistle
+chunk_000328016.wav,chuck
+chunk_000328344.wav,chuck
+chunk_000328600.wav,chuck
+chunk_000328843.wav,chuck
+chunk_000329013.wav,chuck
+chunk_000329013.wav,s
+chunk_000329542.wav,s
+chunk_000330015.wav,s
+chunk_000330239.wav,noise
+chunk_000331249.wav,chuck
+chunk_000331589.wav,chuck
+chunk_000331748.wav,chuck
+chunk_000332007.wav,chuck
+chunk_000332189.wav,chuck
+chunk_000333805.wav,s overlap
+chunk_000336257.wav,whistle
+chunk_000336864.wav,s overlap
+chunk_000338663.wav,chuck
+chunk_000338910.wav,chuck
+chunk_000339045.wav,s overlap (rattle)
+chunk_000341312.wav,chuck
+chunk_000341594.wav,chuck
+chunk_000342406.wav,outside bird
+chunk_000343184.wav,s
+chunk_000343667.wav,s
+chunk_000344475.wav,s
+chunk_000345980.wav,s overlap
+chunk_000347883.wav,outside bird
+chunk_000348347.wav,outside bird
+chunk_000350060.wav,chuck
+chunk_000350315.wav,chuck
+chunk_000350524.wav,chuck
+chunk_000350702.wav,chuck
+chunk_000350923.wav,chuck
+chunk_000351383.wav,s overlap
+chunk_000352446.wav,s
+chunk_000353622.wav,outside bird
+chunk_000354952.wav,outside bird
+chunk_000356279.wav,whistle
+chunk_000357737.wav,chuck
+chunk_000358104.wav,s burble
+chunk_000358762.wav,s burble
+chunk_000359555.wav,outside bird
+chunk_000359957.wav,outside bird
+chunk_000360189.wav,outside bird
+chunk_000360502.wav,s
+chunk_000364238.wav,s overlap
+chunk_000365352.wav,whistle
+chunk_000365816.wav,s
+chunk_000368674.wav,chuck
+chunk_000369382.wav,outside bird
+chunk_000369831.wav,chuck
+chunk_000371350.wav,s overlap
+chunk_000373454.wav,outside bird
+chunk_000375333.wav,s
+chunk_000378138.wav,chuck
+chunk_000378339.wav,chuck
+chunk_000378436.wav,s
+chunk_000382361.wav,outside bird
+chunk_000383177.wav,s burble
+chunk_000383970.wav,s
+chunk_000385474.wav,s
+chunk_000386511.wav,outside bird
+chunk_000387838.wav,s whistle
+chunk_000388244.wav,outside bird
+chunk_000388762.wav,chuck
+chunk_000389485.wav,s overlap
+chunk_000390564.wav,outside bird
+chunk_000391249.wav,chuck
+chunk_000391693.wav,s
+chunk_000394273.wav,outside bird
+chunk_000395839.wav,burble
+chunk_000396729.wav,s overlap
+chunk_000398423.wav,s
+chunk_000400418.wav,chuck
+chunk_000400674.wav,chuck
+chunk_000401679.wav,whistle
+chunk_000402762.wav,chuck
+chunk_000403307.wav,s
+chunk_000404881.wav,s
+chunk_000407109.wav,s whistle
+chunk_000409727.wav,noise
+chunk_000411564.wav,s burble
+chunk_000412280.wav,s
+chunk_000413343.wav,s whistle
+chunk_000415784.wav,s
+chunk_000419276.wav,outside bird
+chunk_000420862.wav,s whistle
+chunk_000421647.wav,s
+chunk_000423786.wav,outside bird
+chunk_000424753.wav,s
+chunk_000425832.wav,s burble
+chunk_000426791.wav,outside bird
+chunk_000428233.wav,outside bird
+chunk_000429305.wav,outside bird
+chunk_000429985.wav,outside bird
+chunk_000430824.wav,noise
+chunk_000431358.wav,burble
+chunk_000432085.wav,outside bird
+chunk_000435067.wav,outside bird
+chunk_000436169.wav,outside bird
+chunk_000437546.wav,s
+chunk_000438254.wav,s
+chunk_000439855.wav,outside bird
+chunk_000441135.wav,s burble
+chunk_000442477.wav,outside bird
+chunk_000443193.wav,s burble
+chunk_000444554.wav,s
+chunk_000445923.wav,s whistle
+chunk_000446909.wav,outside bird
+chunk_000447134.wav,whistle
+chunk_000448240.wav,chuck
+chunk_000448363.wav,chuck
+chunk_000448882.wav,chuck
+chunk_000450568.wav,s whistle
+chunk_000451736.wav,chuck
+chunk_000451968.wav,chuck
+chunk_000452092.wav,chuck
+chunk_000453399.wav,s
+chunk_000456907.wav,s weird
+chunk_000457982.wav,outside bird
+chunk_000458864.wav,chuck
+chunk_000459072.wav,chuck
+chunk_000459235.wav,chuck
+chunk_000459289.wav,s
+chunk_000461946.wav,s
+chunk_000462758.wav,s overlap
+chunk_000463091.wav,s
+chunk_000463884.wav,s
+chunk_000466475.wav,outside bird
+chunk_000467523.wav,outside bird
+chunk_000468142.wav,s
+chunk_000469294.wav,outside bird
+chunk_000469874.wav,s
+chunk_000471143.wav,outside bird
+chunk_000472527.wav,chuck
+chunk_000472941.wav,chuck
+chunk_000473235.wav,chuck
+chunk_000474832.wav,s
+chunk_000475602.wav,s overlap
+chunk_000476577.wav,s
+chunk_000478216.wav,outside bird
+chunk_000478653.wav,s
+chunk_000480177.wav,outside bird
+chunk_000480784.wav,s
+chunk_000482784.wav,s
+chunk_000487115.wav,s
+chunk_000488941.wav,s whistle
+chunk_000489792.wav,s
+chunk_000491459.wav,s
+chunk_000491911.wav,s
+chunk_000493230.wav,chuck
+chunk_000495817.wav,noise
+chunk_000497732.wav,chuck
+chunk_000498006.wav,chuck
+chunk_000498173.wav,chuck
+chunk_000498261.wav,s overlap
+chunk_000500075.wav,s whistle
+chunk_000502137.wav,s whistle
+chunk_000504051.wav,outside bird
+chunk_000504709.wav,outside bird
+chunk_000505455.wav,s
+chunk_000506306.wav,s overlap
+chunk_000508893.wav,chuck
+chunk_000509032.wav,s
+chunk_000510142.wav,s burble
+chunk_000513043.wav,s overlap
+chunk_000514737.wav,burble
+chunk_000515828.wav,chuck
+chunk_000516172.wav,whistle
+chunk_000516845.wav,s overlap
+chunk_000518365.wav,chuck
+chunk_000518659.wav,chuck
+chunk_000518821.wav,chuck
+chunk_000519861.wav,s
+chunk_000520759.wav,s
+chunk_000523841.wav,whistle
+chunk_000524367.wav,s
+chunk_000524827.wav,s overlap
+chunk_000525589.wav,whistle
+chunk_000526343.wav,whistle
+chunk_000528818.wav,s overlap
+chunk_000530029.wav,s
+chunk_000532307.wav,chuck
+chunk_000532879.wav,s
+chunk_000534666.wav,chuck
+chunk_000534821.wav,s
+chunk_000536665.wav,burble
+chunk_000537895.wav,outside bird
+chunk_000538278.wav,chuck
+chunk_000538530.wav,s overlap
+chunk_000540367.wav,chuck
+chunk_000541720.wav,chuck
+chunk_000542633.wav,chuck
+chunk_000542838.wav,s
+chunk_000543855.wav,s burble
+chunk_000545321.wav,chuck
+chunk_000545684.wav,chuck
+chunk_000545901.wav,chuck
+chunk_000546121.wav,whistle
+chunk_000547197.wav,close to mic
+chunk_000547197.wav,s burble
+chunk_000548357.wav,chuck
+chunk_000548604.wav,chuck
+chunk_000549107.wav,s whistle
+chunk_000550132.wav,s
+chunk_000553288.wav,chuck
+chunk_000553489.wav,chuck
+chunk_000553655.wav,s overlap
+chunk_000555728.wav,s
+chunk_000556683.wav,s
+chunk_000557565.wav,outside bird
+chunk_000558025.wav,chuck
+chunk_000558323.wav,chuck
+chunk_000558985.wav,outside bird
+chunk_000559453.wav,s
+chunk_000560895.wav,outside bird
+chunk_000563158.wav,s burble
+chunk_000563722.wav,noise
+chunk_000565965.wav,outside bird
+chunk_000566464.wav,outside bird
+chunk_000567195.wav,chuck
+chunk_000567319.wav,s
+chunk_000568874.wav,chuck
+chunk_000569558.wav,burble
+chunk_000570340.wav,s overlap
+chunk_000571712.wav,s
+chunk_000572768.wav,s overlap
+chunk_000574400.wav,s whistle
+chunk_000576001.wav,chuck
+chunk_000576152.wav,chuck
+chunk_000576411.wav,chuck
+chunk_000576837.wav,outside bird (?)
+chunk_000577119.wav,chuck
+chunk_000577305.wav,outside bird (?)
+chunk_000577869.wav,outside bird (?)
+chunk_000578190.wav,s overlap
+chunk_000579621.wav,s overlap
+chunk_000580998.wav,s
+chunk_000582742.wav,chuck
+chunk_000583183.wav,chuck
+chunk_000583744.wav,burble
+chunk_000584282.wav,s overlap
+chunk_000585918.wav,s
+chunk_000586865.wav,s
+chunk_000587921.wav,chuck
+chunk_000588285.wav,chuck
+chunk_000588486.wav,chuck
+chunk_000590087.wav,s
+chunk_000590872.wav,whistle
+chunk_000591406.wav,s overlap
+chunk_000592751.wav,s burble
+chunk_000594647.wav,s overlap
+chunk_000596600.wav,s
+chunk_000600715.wav,s
+chunk_000601488.wav,s
+chunk_000602374.wav,whistle
+chunk_000603716.wav,chuck
+chunk_000603925.wav,chuck
+chunk_000604157.wav,chuck
+chunk_000604435.wav,rattle
+chunk_000604683.wav,s whistle
+chunk_000605642.wav,s overlap
+chunk_000606493.wav,whistle
